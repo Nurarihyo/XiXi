@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://Nurarihyo.github.io/sitemap.xml 
+Sitemap: http://nunarihyo.zhuozhantao.com/sitemap.xml 

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Fool]]></title>
-  <link href="http://Nurarihyo.github.io/atom.xml" rel="self"/>
-  <link href="http://Nurarihyo.github.io/"/>
-  <updated>2014-06-22T16:02:35+09:00</updated>
-  <id>http://Nurarihyo.github.io/</id>
+  <title><![CDATA[嘻嘻]]></title>
+  <link href="http://nunarihyo.zhuozhantao.com/atom.xml" rel="self"/>
+  <link href="http://nunarihyo.zhuozhantao.com/"/>
+  <updated>2014-06-22T17:02:00+09:00</updated>
+  <id>http://nunarihyo.zhuozhantao.com/</id>
   <author>
-    <name><![CDATA[Zhuo Zhantao]]></name>
+    <name><![CDATA[小卓]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[OctopressLog]]></title>
-    <link href="http://Nurarihyo.github.io/blog/2014/06/21/octopresslog/"/>
+    <link href="http://nunarihyo.zhuozhantao.com/blog/2014/06/21/octopresslog/"/>
     <updated>2014-06-21T22:44:28+09:00</updated>
-    <id>http://Nurarihyo.github.io/blog/2014/06/21/octopresslog</id>
+    <id>http://nunarihyo.zhuozhantao.com/blog/2014/06/21/octopresslog</id>
     <content type="html"><![CDATA[<p>1.导航栏加入两个新链接，category和about。修改了custom下的navigation。</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://Nurarihyo.github.io/blog/2014/06/17/first-post/"/>
+    <link href="http://nunarihyo.zhuozhantao.com/blog/2014/06/17/first-post/"/>
     <updated>2014-06-17T18:33:23+09:00</updated>
-    <id>http://Nurarihyo.github.io/blog/2014/06/17/first-post</id>
+    <id>http://nunarihyo.zhuozhantao.com/blog/2014/06/17/first-post</id>
     <content type="html"><![CDATA[<p>Here is my maiden post. よろしくね！</p>
 
 <p>处女投。</p>
