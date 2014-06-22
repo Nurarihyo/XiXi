@@ -4,7 +4,7 @@
   <title><![CDATA[The Fool]]></title>
   <link href="http://Nurarihyo.github.io/atom.xml" rel="self"/>
   <link href="http://Nurarihyo.github.io/"/>
-  <updated>2014-06-17T18:35:49+09:00</updated>
+  <updated>2014-06-22T16:02:35+09:00</updated>
   <id>http://Nurarihyo.github.io/</id>
   <author>
     <name><![CDATA[Zhuo Zhantao]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[OctopressLog]]></title>
+    <link href="http://Nurarihyo.github.io/blog/2014/06/21/octopresslog/"/>
+    <updated>2014-06-21T22:44:28+09:00</updated>
+    <id>http://Nurarihyo.github.io/blog/2014/06/21/octopresslog</id>
+    <content type="html"><![CDATA[<p>1.导航栏加入两个新链接，category和about。修改了custom下的navigation。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
