@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Diary | 嘻嘻]]></title>
+  <link href="http://nuna.zhuozhantao.com/blog/categories/diary/atom.xml" rel="self"/>
+  <link href="http://nuna.zhuozhantao.com/"/>
+  <updated>2014-06-24T23:40:56+09:00</updated>
+  <id>http://nuna.zhuozhantao.com/</id>
+  <author>
+    <name><![CDATA[小卓]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[说说]]></title>
+    <link href="http://nuna.zhuozhantao.com/blog/2014/06/24/shuoshuo/"/>
+    <updated>2014-06-24T23:38:10+09:00</updated>
+    <id>http://nuna.zhuozhantao.com/blog/2014/06/24/shuoshuo</id>
+    <content type="html"><![CDATA[<p>跟日本人和危地马拉人组的小组真是扯蛋，讨论效率各种低下，今天总算大半回邮件把题目定下来了。</p>
+
+<p>研一最后一次发表，好好努力！干！</p>
+]]></content>
+  </entry>
+  
+</feed>

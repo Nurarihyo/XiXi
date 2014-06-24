@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | 嘻嘻]]></title>
   <link href="http://nuna.zhuozhantao.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://nuna.zhuozhantao.com/"/>
-  <updated>2014-06-22T18:16:38+09:00</updated>
+  <updated>2014-06-24T23:40:56+09:00</updated>
   <id>http://nuna.zhuozhantao.com/</id>
   <author>
     <name><![CDATA[小卓]]></name>
@@ -18,10 +18,10 @@
     <link href="http://nuna.zhuozhantao.com/blog/2014/06/21/octopresslog/"/>
     <updated>2014-06-21T22:44:28+09:00</updated>
     <id>http://nuna.zhuozhantao.com/blog/2014/06/21/octopresslog</id>
-    <content type="html"><![CDATA[<p>1.导航栏加入两个新链接，category和about。修改了custom下的navigation。</p>
+    <content type="html"><![CDATA[<p>1.导航栏加入两个页面，category和about。（修改了custom下的navigation。）</p>
 
 <ol>
-<li>加入目录功能。</li>
+<li>加入目录功能。（搞死爹了，那个主题不带目录功能，从别的主题拷的。）</li>
 </ol>
 
 ]]></content>

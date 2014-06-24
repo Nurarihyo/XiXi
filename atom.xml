@@ -4,7 +4,7 @@
   <title><![CDATA[嘻嘻]]></title>
   <link href="http://nuna.zhuozhantao.com/atom.xml" rel="self"/>
   <link href="http://nuna.zhuozhantao.com/"/>
-  <updated>2014-06-22T18:16:38+09:00</updated>
+  <updated>2014-06-24T23:40:56+09:00</updated>
   <id>http://nuna.zhuozhantao.com/</id>
   <author>
     <name><![CDATA[小卓]]></name>
@@ -14,14 +14,25 @@
 
   
   <entry>
+    <title type="html"><![CDATA[说说]]></title>
+    <link href="http://nuna.zhuozhantao.com/blog/2014/06/24/shuoshuo/"/>
+    <updated>2014-06-24T23:38:10+09:00</updated>
+    <id>http://nuna.zhuozhantao.com/blog/2014/06/24/shuoshuo</id>
+    <content type="html"><![CDATA[<p>跟日本人和危地马拉人组的小组真是扯蛋，讨论效率各种低下，今天总算大半回邮件把题目定下来了。</p>
+
+<p>研一最后一次发表，好好努力！干！</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[OctopressLog]]></title>
     <link href="http://nuna.zhuozhantao.com/blog/2014/06/21/octopresslog/"/>
     <updated>2014-06-21T22:44:28+09:00</updated>
     <id>http://nuna.zhuozhantao.com/blog/2014/06/21/octopresslog</id>
-    <content type="html"><![CDATA[<p>1.导航栏加入两个新链接，category和about。修改了custom下的navigation。</p>
+    <content type="html"><![CDATA[<p>1.导航栏加入两个页面，category和about。（修改了custom下的navigation。）</p>
 
 <ol>
-<li>加入目录功能。</li>
+<li>加入目录功能。（搞死爹了，那个主题不带目录功能，从别的主题拷的。）</li>
 </ol>
 
 ]]></content>
